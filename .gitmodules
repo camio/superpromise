@@ -1,0 +1,12 @@
+[submodule "apl"]
+	path = apl
+	url = ../apl
+[submodule "asio"]
+	path = asio
+	url = ../asio
+[submodule "cms"]
+	path = cms
+	url = ../cms
+[submodule "dpl"]
+	path = dpl
+	url = ../dpl
