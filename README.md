@@ -1,3 +1,15 @@
+# superpromise
+
+**PURPOSE:** Provide a super project for promise related groups
+
+**AUTHOR:** David Sankel (dsankel)
+
+## Description
+
+The `superpromise` superproject contains groups related to promises. The intent
+is to provide a convenient way to develop promises and groups frequently
+modified in tandem with them.
+
 ## TODO
 
 - Add component-level documentation and tests for dplmrts_invocablearchetype
