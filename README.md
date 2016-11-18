@@ -22,3 +22,4 @@
   - Markdown formatting for README's, etc.
 - Figure out if we need a "Package Synopsis" *and* a "Package Overview" when
   documenting package groups.
+- Make cmsfm_findasio more robust when it cannot find the 'asio' directory.
