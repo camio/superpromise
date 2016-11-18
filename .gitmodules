@@ -1,6 +1,6 @@
 [submodule "apl"]
 	path = apl
-	url = ../apl
+	url = git@bbgithub.dev.bloomberg.com:dsankel/apl
 [submodule "asio"]
 	path = asio
 	url = ../asio
