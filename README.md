@@ -12,9 +12,6 @@ modified in tandem with them.
 
 ## TODO
 
-- Look at the documentation for the FindGTest CMake module and use that as a
-  starting point for discovering how to better integrate the unit tests. Once
-  we get a way to run the unit tests we should describe how in `dpl`s readme.
 - Add component-level documentation and tests for dplp's components
   and update dplp's documentation.
   - dplp_promise
