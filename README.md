@@ -12,17 +12,15 @@ modified in tandem with them.
 
 ## TODO
 
-- Add component-level documentation and tests for dplmrts_invocablearchetype
-  and update dplmrts's documentation.
-- Add component-level documentation and tests for dplp's components
-  and update dplp's documentation.
-  - dplp_anypromise
-  - dplp_promise
-  - dplp_resolver (perhaps we want a dplp_resolverachtype to help unit test
-    dplp_promise)
 - Look at the documentation for the FindGTest CMake module and use that as a
   starting point for discovering how to better integrate the unit tests. Once
   we get a way to run the unit tests we should describe how in `dpl`s readme.
+- Add component-level documentation and tests for dplp's components
+  and update dplp's documentation.
+  - dplp_promise
+  - dplp_resolver (perhaps we want a dplp_resolverachtype to help unit test
+    dplp_promise)
+- Rename 'dplp::Promise' to 'dplp::promise'.
 - Add documentation of system error exceptions to apltcp_channel.
 - Add documentation for "ArchType".
 - Add documentation for dplm17_variant.
