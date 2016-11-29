@@ -12,7 +12,6 @@ modified in tandem with them.
 
 ## TODO
 
-- Add header files to the the 'add_library' and 'add_executable' commands.
 - Add component-level documentation and tests for dplp's components and update
   dplp's documentation.
   - dplp_promisestateimp
