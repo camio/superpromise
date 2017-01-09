@@ -2,8 +2,6 @@
 
 **PURPOSE:** Provide a super project for promise related groups
 
-**AUTHOR:** David Sankel (dsankel)
-
 ## Description
 
 The `superpromise` superproject contains groups related to promises. The intent
