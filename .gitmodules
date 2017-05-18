@@ -1,12 +1,12 @@
 [submodule "apl"]
 	path = apl
-	url = ../apl
+	url = git@github.com:camio/apl
 [submodule "asio"]
 	path = asio
-	url = ../asio
+	url = git@github.com:camio/asio
 [submodule "cms"]
 	path = cms
-	url = ../cms
+	url = git@github.com:camio/cms
 [submodule "dpl"]
 	path = dpl
-	url = ../dpl
+	url = git@github.com:camio/dpl
