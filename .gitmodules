@@ -1,12 +1,12 @@
 [submodule "apl"]
 	path = apl
-	url = git@bbgithub.dev.bloomberg.com:dsankel/apl
+	url = ../apl
 [submodule "asio"]
 	path = asio
-	url = git@bbgithub.dev.bloomberg.com:dsankel/asio
+	url = ../asio
 [submodule "cms"]
 	path = cms
-	url = git@bbgithub.dev.bloomberg.com:dsankel/cms
+	url = ../cms
 [submodule "dpl"]
 	path = dpl
-	url = git@bbgithub.dev.bloomberg.com:dsankel/dpl
+	url = ../dpl
