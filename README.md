@@ -17,3 +17,7 @@ dplm20 packages for more details.
 ## Build
 
 Build with CMake in the normal way.
+
+## Test
+
+Test with CTest in the normal way.
