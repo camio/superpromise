@@ -7,7 +7,7 @@ enable_testing()
 # 'CXX_STANDARD_REQUIRED' target attributes. For the concepts part, I think we
 # need to verify that the compiler is GNU and add this flag to the target which
 # requires it somehow.
-set(CMAKE_CXX_FLAGS "-std=c++1z -fconcepts")
+set(CMAKE_CXX_FLAGS "-std=c++1z")
 
 # Bootstrap cms
 add_subdirectory(cms)
